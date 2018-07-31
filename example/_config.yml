@@ -1,12 +1,8 @@
-title: "ryjdjkttrjgmdgfymn"
-author: "sgnwrnwrnwrn"
-email: your-email@domain.com
+title: y Awesome Bl
 description: "wrtnrenrnwrnwr"
 baseurl: "wrgnergnrwnrnrwn"
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
-github_username: kamikat
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-kagami
