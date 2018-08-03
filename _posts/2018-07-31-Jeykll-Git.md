@@ -1,11 +1,12 @@
 ---
 title: 天天向上
 cover_url: https://i.loli.net/2018/08/02/5b6328902cfb3.jpg
-cover_meta: >
-  Photo by [神农拆穿](https://unsplash.com/@amadorloureiroblanco)
 description: 一些 Jekyll 有关的问题
 ---
-Git 提交时提示 "The file will have its original line endings in your working directory", 在 Git 中输入如下命令解决：```git config --global core.autocrlf false```
+Git 提交时提示
+ "The file will have its original line endings in your working directory"
+在 Git 中输入如下命令解决：
+```git config --global core.autocrlf false```
 
 用 Git 发布博客的几个命令：
 ```
@@ -15,8 +16,3 @@ $ git commit -m "some commit message"
 
 $ git push origin master
 ```
-换行呀妈蛋妈蛋
-华航呀妈蛋
-
-妈蛋
-
