@@ -1,6 +1,5 @@
 ---
 title: what‘s love?
-cover_url: https://i.loli.net/2018/08/03/5b63e8bc072fd.jpg
 description: “如果不是你，那又会是谁？ 如果不是此刻，那又会是何时？” 
 ---
 
