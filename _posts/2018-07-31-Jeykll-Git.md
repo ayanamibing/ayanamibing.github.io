@@ -1,5 +1,5 @@
 ---
-title: 天天向上
+title: 一些 Jekyll 问题
 cover_url: https://i.loli.net/2018/08/02/5b6328902cfb3.jpg
 ---
 Git 提交时提示
