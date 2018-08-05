@@ -1,5 +1,5 @@
 ---
-title: He is wise that knows when he's well enough.
+title: a lonely ship
 cover_url: https://image.g-cores.com/eb6c35e0-ec57-4e30-82bf-2766cda53f58.jpg
 cover_meta: >
   Photo by [荒野大嫖客](https://www.g-cores.com/articles/93562)
