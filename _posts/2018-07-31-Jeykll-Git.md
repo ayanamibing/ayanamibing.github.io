@@ -15,8 +15,10 @@ $ git commit -m "some commit message"
 
 $ git push origin master
 ```
-
 如果远程端（GitHub）有更改，那就需要先把远程的文件先拉下来再 push，使用命令：
 ```
 $ git pull origin master
 ```
+
+文章标题就直接是文件标题，如果文件是以```2018-08-05-考拉是坏蛋.md```命名，那网站上最终显示的文章标题就是```考拉是坏蛋```。
+但是加入
